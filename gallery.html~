@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+
+<html  lang = "en">
+
+<head>
+
+	<link rel="stylesheet" type="text/css" href="style.css">
+
+	<meta charset = "utf-8">
+
+	<title>Gallery</title>
+
+	<meta name= "description" content= "Gallery">
+
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+
+</head>
+
+<style>
+
+	body{
+		padding-top: 40px;
+	}
+
+</style>
+
+<body style = "background-color: 	#BDB76B ">
+
+	
+
+	<!-- Start jumbotron -->
+	<div class= "jumbotron" style= "margin-top: -50px; background-color:  #8FBC8F">
+
+		<div class ="span2">
+			
+		</div>
+
+		<div class= "container text-center" >
+
+			<h2 style = "color:#F5ECCE ;font-family: Courier">Gallery</h2>
+			
+
+		</div>
+
+	</div>
+	<!-- End jumbotron -->
+
+	<nav class="navbar navbar-custom navbar-default" id = "my-navbar" style= "margin-top: -35px">
+	 	<div class="container " >
+	    	<div class="navbar-header">
+	      		<a class="navbar-brand" href="file:///home/placements2017/hack/index.html">HOME</a>
+	    	</div>
+	    	<div>
+
+	    		<a href = "file:///home/placements2017/hack/contact.htm" class= "btn btn-default navbar-btn navbar-right">CONTACT US</a>
+	      		<ul class="nav navbar-nav" >  
+
+
+	      			<li><a href="#">PROJECTS</a></li>  		
+	        		<li><a href="file:///home/placements2017/hack/gallery.html">GALLERY</a></li>
+	        		<li><a href="#">HONOURING</a></li>
+	        		<li><a href="file:///home/placements2017/hack/achievement.html">ACHIEVEMENTS</a></li>
+                                <li><a href="file:///home/placements2017/hack/login.htm">LOG IN</a></li>
+	                        <li><a href="file:///home/placements2017/hack/signuptry.htm">SIGN UP</a></li>
+
+	      		</ul>
+	    	</div>
+	  	</div>
+	</nav>
+
+
+
+
+	<!-- Start Thumbnails-->
+
+
+	<div class="container">
+		<section>
+
+			<div class="page-header" id = "thumbnails">
+
+
+			</div>
+<!-- Row 1-->
+			<div class = "row">
+				
+				<div>
+					
+
+					
+
+					<img src="https://india.gov.in/sites/upload_files/npi/files/spotlights/swatch-bharat-inner-new.jpg">
+                        
+
+
+					<div >
+						
+						<img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/8/005/08a/36f/00ca3c8.jpg">
+
+					</div>
+
+				</div>
+				</a>
+
+
+	
+
+	<footer>
+
+		<div style="background-color:#1D2F3E">
+
+
+			<div class = "container text-center" >
+
+				<br>
+
+				<ul class = "list-inline " >
+
+					<li><a href="https://twitter.com/hashtag/swachhbharat">Twitter</a></li>
+					<li><a href="https://www.facebook.com/SwachhBharatMissionGrameen/">Facebook</a></li>
+					<li><a href="https://www.youtube.com/watch?v=43I8r2wPVCo">Youtube</a></li>
+
+				</ul>
+
+				<p style = "color: #ffffff">&copy; Copyright @ 2016</p>
+
+			</div>
+
+		</div>
+
+	</footer>
+
+	<!--<script src = "http://code.jquery.com/jquery-2.1.4.min.js"></script>
+
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>-->
+
+</body>
+
+</html>

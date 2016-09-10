@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+
+<html  lang = "en">
+
+<head>
+
+	<link rel="stylesheet" type="text/css" href="style.css">
+
+	<meta charset = "utf-8">
+
+	<title>Achievements</title>
+
+	<meta name= "description" content= "Achievements">
+
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+
+</head>
+
+<style>
+
+	body{
+		padding-top: 40px;
+	}
+
+
+</style>
+
+<body style = "background-color: 	#BDB76B ">
+
+	
+
+	<!-- Start jumbotron -->
+	<div class= "jumbotron" style= "margin-top: -50px; background-color:  #8FBC8F">
+
+		<div class ="span2">
+			
+		</div>
+
+		<div class= "container text-center" >
+
+			<h2 style = "color:#F5ECCE ;font-family: Courier">Achievements</h2>
+			
+
+		</div>
+
+	</div>
+	<!-- End jumbotron -->
+
+	<nav class="navbar navbar-custom navbar-default" id = "my-navbar" style= "margin-top: -35px">
+	 	<div class="container " >
+	    	<div class="navbar-header">
+	      		<a class="navbar-brand" href="file:///home/placements2017/hack/index.html">HOME</a>
+	    	</div>
+	    	<div>
+
+	    		<a href = "file:///home/placements2017/hack/contact.htm" class= "btn btn-default navbar-btn navbar-right">CONTACT US</a>
+	      		<ul class="nav navbar-nav" >  
+
+
+	      			<li><a href="#">PROJECTS</a></li>  		
+	        		<li><a href="#">GALLERY</a></li>
+	        		<li><a href="#">HONOURING</a></li>
+	        		<li><a href="#">ACHIEVEMENTS</a></li>
+                                <li><a href="file:///home/placements2017/login.htm">LOG IN</a></li>
+	                        <li><a href="file:///home/placements2017/hack/signuptry.htm">SIGN UP</a></li>
+
+	      		</ul>
+	    	</div>
+	  	</div>
+	</nav>
+
+
+
+
+	<!-- Start Thumbnails-->
+
+
+	<div class="container">
+		<section>
+
+			<div class="page-header" id = "thumbnails">
+
+
+			</div>
+<!-- Row 1-->
+			<div class = "row">
+				
+				<div>
+					
+
+					
+
+					<img src="http://i.imgur.com/A4zMb26.jpg" width="400px" height="250px">
+
+					<div ><br><br>
+						
+						<h4>“A clean India would be the best tribute India could pay to Mahatma Gandhi on his 150 birth anniversary in 2019,” said Shri Narendra Modi as he launched the Swachh Bharat Mission at Rajpath in New Delhi. On 2nd October 2014, Swachh Bharat Mission was launched throughout length and breadth of the country as a national movement.</h4>
+<h4>While leading the mass movement for cleanliness, the Prime Minister exhorted people to fulfil Mahatma Gandhi’s dream of a clean and hygienic India. Shri Narendra Modi himself initiated the cleanliness drive at Mandir Marg Police Station. Picking up the broom to clean the dirt, making Swachh Bharat Abhiyan a mass movement across the nation, the Prime Minister said people should neither litter, nor let others litter. He gave the mantra of ‘Na gandagi karenge, Na karne denge.’ Shri Narendra Modi also invited nine people to join the cleanliness drive and requested each of them to draw nine more into the initiative.</h4>
+<h4>By inviting people to participate in the drive, the Swachhta Abhiyan has turned into a National Movement. A sense of responsibility has been evoked among the people through the Clean India Movement. With citizens now becoming active participants in cleanliness activities across the nation, the dream of a ‘Clean India’ once seen by Mahatma Gandhi has begun to get a shape.</h4>
+
+					<br><br><br><br></div>
+
+				</div>
+				</a>
+
+
+	
+
+	<footer>
+
+		<div style="background-color:#1D2F3E">
+
+
+			<div class = "container text-center" >
+
+				<br>
+
+				<ul class = "list-inline " >
+
+					<li><a href="https://twitter.com/hashtag/swachhbharat">Twitter</a></li>
+					<li><a href="https://www.facebook.com/SwachhBharatMissionGrameen/">Facebook</a></li>
+					<li><a href="https://www.youtube.com/watch?v=43I8r2wPVCo">Youtube</a></li>
+
+				</ul>
+
+				<p style = "color: #ffffff">&copy; Copyright @ 2016</p>
+
+			</div>
+
+		</div>
+
+	</footer>
+
+	<!--<script src = "http://code.jquery.com/jquery-2.1.4.min.js"></script>
+
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>-->
+
+</body>
+
+</html>

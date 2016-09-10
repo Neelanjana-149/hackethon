@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+
+<html  lang = "en">
+
+<head>
+
+	<link rel="stylesheet" type="text/css" href="style.css">
+
+	<meta charset = "utf-8">
+
+	<title>SWACHH BHARAT ABHIYAN</title>
+
+	<meta name= "description" content= "SWACHH BHARAT ABHIYAN">
+
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+
+</head>
+
+<style>
+
+	body{
+		padding-top: 40px;
+	}
+
+</style>
+
+<body style = "background-color: 	#BDB76B ">
+
+	
+
+	<!-- Start jumbotron -->
+	<div class= "jumbotron" style= "margin-top: -50px; background-color:  #8FBC8F">
+
+		<div class ="span2">
+			
+		</div>
+
+		<div class= "container text-center" >
+
+			<h2 style = "color:#F5ECCE ;font-family: Courier">SWACHH BHARAT ABHIYAN</h2>
+			<h3 style = "color:#F5ECCE ;font-family: Courier"><b>INDIA</b></h3>
+
+		</div>
+
+	</div>
+	<!-- End jumbotron -->
+
+	<nav class="navbar navbar-custom navbar-default" id = "my-navbar" style= "margin-top: -35px">
+	 	<div class="container " >
+	    	<div class="navbar-header">
+	      		<a class="navbar-brand" href="#">HOME</a>
+	    	</div>
+	    	<div>
+
+	    		<a href = "file:///home/placements2017/hack/contact.htm" class= "btn btn-default navbar-btn navbar-right">CONTACT US</a>
+	      		<ul class="nav navbar-nav" >  
+
+
+	      			<li><a href="#">PROJECTS</a></li>  		
+	        		<li><a href="file:///home/placements2017/hack/gallery.html">GALLERY</a></li>
+	        		<li><a href="#">HONOURING</a></li>
+	        		<li><a href="file:///home/placements2017/hack/achievement.html">ACHIEVEMENTS</a></li>
+                                <li><a href="file:///home/placements2017/hack/login.htm">LOG IN</a></li>
+	                        <li><a href="file:///home/placements2017/hack/signuptry.htm">SIGN UP</a></li>
+
+	      		</ul>
+	    	</div>
+	  	</div>
+	</nav>
+
+
+	<!--Start gallery-->
+
+	<div class = "container">
+
+		<section>
+
+			<div class = "carousel slide" id = "screenshot-carousel" data-ride="corousel">
+
+				<ol class = "carousel-indicators">
+
+					<li data-target = "#screenshot-carousel" data-slide-to="0" class = "active"></li>
+					
+				</ol>
+
+				<div class = "carousel-inner">
+
+					<div class = "item active">
+
+
+						<img src="http://3.bp.blogspot.com/-IcQJxg_9T2s/VKYuGmsmOGI/AAAAAAAARbI/37B8bvrzdqY/s1600/Swacch%2BBharat%2BAbhiyaan.jpg">
+
+						
+
+					</div>
+
+				</div>
+
+				<a href = "#screenshot-carousel" class="left carousel-control" data-slide="prev">
+
+					<span class = "glyphicon glyphicon-chevron-left"></span>
+
+				</a>
+
+				<a href = "#screenshot-carousel" class="right carousel-control" data-slide="next">
+					
+					<span class = "glyphicon glyphicon-chevron-right"></span>
+
+				</a>
+
+			</div>
+
+		</section>
+
+	</div>
+
+
+	<!--End gallery-->
+
+	<!-- Start Thumbnails-->
+
+
+	<div class="container">
+		<section>
+
+			<div class="page-header" id = "thumbnails">
+
+
+			</div>
+<!-- Row 1-->
+			<div class = "row">
+				
+				<div>
+					
+
+					<h4>Message from the leader</h4>
+
+					<img src="http://i.imgur.com/ziCgB4a.jpg" width="400px" height="270px">
+
+					<div ><br><br>
+						
+						<h4>“A clean India would be the best tribute India could pay to Mahatma Gandhi on his 150 birth anniversary in 2019,” said Shri Narendra Modi as he launched the Swachh Bharat Mission at Rajpath in New Delhi. On 2nd October 2014, Swachh Bharat Mission was launched throughout length and breadth of the country as a national movement.</h4>
+<h4>While leading the mass movement for cleanliness, the Prime Minister exhorted people to fulfil Mahatma Gandhi’s dream of a clean and hygienic India. Shri Narendra Modi himself initiated the cleanliness drive at Mandir Marg Police Station. Picking up the broom to clean the dirt, making Swachh Bharat Abhiyan a mass movement across the nation, the Prime Minister said people should neither litter, nor let others litter. He gave the mantra of ‘Na gandagi karenge, Na karne denge.’ Shri Narendra Modi also invited nine people to join the cleanliness drive and requested each of them to draw nine more into the initiative.</h4>
+<h4>By inviting people to participate in the drive, the Swachhta Abhiyan has turned into a National Movement. A sense of responsibility has been evoked among the people through the Clean India Movement. With citizens now becoming active participants in cleanliness activities across the nation, the dream of a ‘Clean India’ once seen by Mahatma Gandhi has begun to get a shape.</h4>
+
+					<br><br></div>
+
+				</div>
+				</a>
+
+
+				<!--<div class = "col-sm-3">
+
+					<h4>Achievements</h4>
+
+					<img src="http://i.imgur.com/A4zMb26.jpg">
+					<div >
+						
+						<p>The Institute boasts of the state-of-the-art Laboratories, which offer the students the opportunity to exploit the full potential within. Few institutes offer Labaratories at par with IIIT Allahabad. Also the students are granted 24 * 7 access to the Labs, in order to promote self...</p>
+
+					</div>
+
+				</div>
+
+				
+
+				
+				<div class = "col-sm-3">
+					<h4>Projects</h4>
+
+					<img src="http://i.imgur.com/QACLmvq.jpg">
+
+					<div >
+						
+						<p>Projects are a result of the culmination of ideas and efforts. At IIIT Allahabad, it is our ultimate goal to inclucate into our students the capability to follow their own dreams, and fabricate them in the realm of possiblity. The primary objective of our mentors is to give the student only...</p>
+
+					</div>
+
+				</div>
+
+
+					<div class = "col-sm-3">
+
+						<div>
+							<h5 style = "text-align: center">
+							<span class = "glyphicon glyphicon-link"></span>
+							   PORTALS
+						</h5>
+							<div class="list-group">
+							<ul>
+								<a href="http://iiita.ac.in" class="list-group-item">IIIT Allahabad</a>
+								<a href="#" class="list-group-item">Student Registration</a>
+								<a href="#" class="list-group-item">Project Registration</a>
+								<a href="http://library.iiita.ac.in" class="list-group-item">Library</a>
+								<a href="#" class="list-group-item">Gymkhana</a>
+								
+							</ul>
+							</div>
+
+						</div>
+
+					</div>
+
+			</div>
+
+
+			<br>
+
+<!-- Row 2-->
+			<!--<div class = "row">
+
+				<div class = "col-sm-3">
+
+					<h4>Research</h4>
+
+					<img src="http://i.imgur.com/8VLqtZC.jpg">
+
+					<div >
+						
+						<p>Welcome to the department of Electronics & Communication Engineering at Indian Institute of Information Technology, Allahabad. The department was established in the year 2006 with the aims of providing leadership ...</p>
+
+					</div>
+
+				</div>
+
+				
+				<div class = "col-sm-3">
+
+					<h4>Labs</h4>
+
+					<img src="http://i.imgur.com/ylMVIj2.jpg">
+
+					<div >
+						
+						<p>The Institute boasts of the state-of-the-art Laboratories, which offer the students the opportunity to exploit the full potential within. Few institutes offer Labaratories at par with IIIT Allahabad. Also the students are granted 24 * 7 access to the Labs, in order to promote self...</p>
+
+					</div>
+
+				</div>			
+
+				<div class = "col-sm-3">
+					<h4>Programs</h4>
+
+					<img src="http://i.imgur.com/jswJ2mr.png">
+
+					<div >
+						
+						<p>Projects are a result of the culmination of ideas and efforts. At IIIT Allahabad, it is our ultimate goal to inclucate into our students the capability to follow their own dreams, and fabricate them in the realm of possiblity. The primary objective of our mentors is to give the student only...</p>
+
+					</div>
+
+				</div>
+
+				<div class = "col-sm-3">
+						<h5 style = "text-align: center">
+							<span class = "glyphicon glyphicon-globe"></span>
+							   NEWS
+						</h5>
+						<br>
+						<ul>
+							<li style="padding-bottom:20px; list-style-type:none"> Dr A. K. Gupta Director, Instruments Research and Development Establishment (IRDE) visited our insti...</li>
+							
+							<li style="padding-bottom:20px ; list-style-type:none"> Prof. Partha Ray visited the department and delivered lectures on analog simulators and other relate..</li>
+							
+							<li style="padding-bottom:20px ; list-style-type:none"> Jasveer Singh from ST Microelectronics visited the department. He was most intrigued to see the nume...</li>
+							
+							<p>More News</p>
+	
+
+						</ul>
+				</div>
+
+			</div>
+
+		</section>
+
+		<br>
+		<br>
+
+
+	</div>
+
+
+
+	<!--End thumbnails -->
+
+	<footer>
+
+		<div style="background-color:#1D2F3E">
+
+
+			<div class = "container text-center" >
+
+				<br>
+
+				<ul class = "list-inline " >
+
+					<li><a href="https://twitter.com/hashtag/swachhbharat">Twitter</a></li>
+					<li><a href="https://www.facebook.com/SwachhBharatMissionGrameen/">Facebook</a></li>
+					<li><a href="https://www.youtube.com/watch?v=43I8r2wPVCo">Youtube</a></li>
+
+				</ul>
+
+				<p style = "color: #ffffff">&copy; Copyright @ 2016</p>
+
+			</div>
+
+		</div>
+
+	</footer>
+
+	<!--<script src = "http://code.jquery.com/jquery-2.1.4.min.js"></script>
+
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>-->
+
+</body>
+
+</html>
